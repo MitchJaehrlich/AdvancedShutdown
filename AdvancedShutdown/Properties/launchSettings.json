@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "AdvancedShutdown (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "AdvancedShutdown (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
